@@ -1,5 +1,5 @@
 ---
-name: 1C story
+name: User story
 about: The main purpose of this template is to get the higher score in Software Engineering
   course.
 title: ''
